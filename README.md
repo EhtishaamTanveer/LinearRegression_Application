@@ -9,3 +9,9 @@ Assuming you are the CEO of a restaurant franchise and are considering different
   - For these cities, you have the city population.
 
 Can you use the data to help you identify which cities may potentially give your business higher profits?
+
+
+Solution is aimed to build a linear regression model to fit this data.
+- With this model, you can then input a new city's population, and have the model estimate your restaurant's potential monthly profits for that city.
+
+
