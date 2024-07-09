@@ -1,17 +1,11 @@
-# LinearRegression_Project
+# Linear Regression Project
 
-This is a simulation of a practical situation. 
+This Github Repo contains a Linear Regression project 
 
-Assuming you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet.
-- You would like to expand your business to cities that may give your restaurant higher profits.
-- The chain already has restaurants in various cities and you have data for profits and populations from the cities.
-- You also have data on cities that are candidates for a new restaurant.
-  - For these cities, you have the city population.
+** Linear Regression ** is a Supervised Machine Learning Algorithm that is used to predict the value of a variable in relation with another variable. This is mostly used when you have quantitative data.
 
-Can you use the data to help you identify which cities may potentially give your business higher profits?
+The ultimate aim of this project is to built a Linear Regression model from scratch and come up with an optimal line of best fit.
 
-
-Solution is aimed to build a linear regression model to fit this data.
-- With this model, you can then input a new city's population, and have the model estimate your restaurant's potential monthly profits for that city.
+I started working on this project all by myself while completing my Coursera specialization called "[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/NG3GPTVN7M8E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)"
 
 
