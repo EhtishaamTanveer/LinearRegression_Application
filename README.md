@@ -1,4 +1,4 @@
-# LinearRegression_Application
+# LinearRegression_Project
 
 This is a simulation of a practical situation. 
 
